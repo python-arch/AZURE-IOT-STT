@@ -31,16 +31,16 @@ def up():
             "APP_DATA": {
                 "MODE_DATA": {
                     "FEATURES": "TURBO",
-                    "MODE": "COOL"
+                    "MODE": "HEAT"
                 },
                 "COMPONENT_DATA": {
                     "PLASMA": "ON",
-                    "FAN": "LOW",
+                    "FAN": "MED",
                     "H_LOUVRE": "POS_1",
                     "V_LOUVRE": "POS_2"
                 },
                 "CONTROL_DATA": {
-                    "TIMER_STATE": "OFF",
+                    "TIMER_STATE": "TIMER_ON",
                     "TIMER_HOURS": "0",
                     "TEMP_CELSIUS_USER": value
                 }
